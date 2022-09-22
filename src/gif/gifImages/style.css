@@ -1,0 +1,8 @@
+.box-gif {
+  margin: auto;
+  display: inline-block;
+  box-shadow: 5px 5px 16px #bababa, -5px -5px 16px #ffffff;
+}
+.box-gif img {
+  margin: 0.5rem 1rem;
+}
